@@ -1,1 +1,1 @@
-# Please check in browser console 
+# Please check output in browser console 
